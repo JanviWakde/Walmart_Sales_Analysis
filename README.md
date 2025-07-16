@@ -2,6 +2,7 @@
 
 This project analyzes Walmart sales data using SQL to uncover insights into product performance, customer behavior, revenue trends, and operational efficiency across different branches.
 
+
 ## Dataset
 The dataset used was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
@@ -23,11 +24,13 @@ It contains sales transactions with attributes such as:
 - Gross Income
 - Rating
 
+
 ## Objectives
 - Identify top-performing branches and products
 - Understand customer behavior and preferences
 - Analyze sales patterns by time, day, and month
 - Recommend strategies to optimize sales and operations
+
 
 ## Key Insights
 ### Branch & Location
@@ -47,7 +50,7 @@ It contains sales transactions with attributes such as:
 
 ### Payment & Customer Trends
 - Ewallet is the most used payment method, followed by Cash and Credit card.
-- There are **2 customer types**: `Member` and `Normal`.
+- There are 2 customer types: Member and Normal.
 - Members generated more revenue and purchased more items than Normal customers.
 - Gender distribution across branches is relatively balanced but varies slightly per branch.
 
